@@ -72,7 +72,7 @@
     background: #FFE59D;
     display: block;
     margin-top: 2px;
-    transition: 0.5s;
+    transition: 0.5s ease-in-out;
 }
 
 .navigation li:hover::after {
